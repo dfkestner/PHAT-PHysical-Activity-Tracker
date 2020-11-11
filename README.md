@@ -5,8 +5,8 @@
 
 Trying to live up to your New Year's Resoltion? Use PHAT to track your workouts!
 
-[Home Page Screenshot](https://github.com/dfkestner/PHAT-Physical-Activity-Tracker/blob/main/PHATHome.png)
-[Dashboard Screenshot](https://github.com/dfkestner/PHAT-Physical-Activity-Tracker/blob/main/PHATDashboard.png)
+![Home Page Screenshot](https://github.com/dfkestner/PHAT-Physical-Activity-Tracker/blob/main/PHATHome.png)
+![Dashboard Screenshot](https://github.com/dfkestner/PHAT-Physical-Activity-Tracker/blob/main/PHATDashboard.png)
 
 ## Table of Contents
 
